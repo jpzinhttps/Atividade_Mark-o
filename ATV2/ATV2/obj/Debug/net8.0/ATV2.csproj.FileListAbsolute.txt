@@ -1,0 +1,14 @@
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\ATV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\ATV2.AssemblyInfoInputs.cache
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\ATV2.AssemblyInfo.cs
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\ATV2.csproj.CoreCompileInputs.cache
+C:\Users\cg950\source\repos\ATV2\ATV2\bin\Debug\net8.0\ATV2.exe
+C:\Users\cg950\source\repos\ATV2\ATV2\bin\Debug\net8.0\ATV2.deps.json
+C:\Users\cg950\source\repos\ATV2\ATV2\bin\Debug\net8.0\ATV2.runtimeconfig.json
+C:\Users\cg950\source\repos\ATV2\ATV2\bin\Debug\net8.0\ATV2.dll
+C:\Users\cg950\source\repos\ATV2\ATV2\bin\Debug\net8.0\ATV2.pdb
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\ATV2.dll
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\refint\ATV2.dll
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\ATV2.pdb
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\ATV2.genruntimeconfig.cache
+C:\Users\cg950\source\repos\ATV2\ATV2\obj\Debug\net8.0\ref\ATV2.dll

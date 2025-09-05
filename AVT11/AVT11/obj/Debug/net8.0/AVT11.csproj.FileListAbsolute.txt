@@ -1,0 +1,14 @@
+C:\Users\cg950\source\repos\AVT11\AVT11\bin\Debug\net8.0\AVT11.exe
+C:\Users\cg950\source\repos\AVT11\AVT11\bin\Debug\net8.0\AVT11.deps.json
+C:\Users\cg950\source\repos\AVT11\AVT11\bin\Debug\net8.0\AVT11.runtimeconfig.json
+C:\Users\cg950\source\repos\AVT11\AVT11\bin\Debug\net8.0\AVT11.dll
+C:\Users\cg950\source\repos\AVT11\AVT11\bin\Debug\net8.0\AVT11.pdb
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\AVT11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\AVT11.AssemblyInfoInputs.cache
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\AVT11.AssemblyInfo.cs
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\AVT11.csproj.CoreCompileInputs.cache
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\AVT11.dll
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\refint\AVT11.dll
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\AVT11.pdb
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\AVT11.genruntimeconfig.cache
+C:\Users\cg950\source\repos\AVT11\AVT11\obj\Debug\net8.0\ref\AVT11.dll

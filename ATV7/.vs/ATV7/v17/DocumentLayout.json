@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cg950\\source\\repos\\ATV7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25CD85C6-DDEF-419C-9614-23B531234603}|ATV7\\ATV7.csproj|c:\\users\\cg950\\source\\repos\\atv7\\atv7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CD85C6-DDEF-419C-9614-23B531234603}|ATV7\\ATV7.csproj|solutionrelative:atv7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cg950\\source\\repos\\ATV7\\ATV7\\Program.cs",
+              "RelativeDocumentMoniker": "ATV7\\Program.cs",
+              "ToolTip": "C:\\Users\\cg950\\source\\repos\\ATV7\\ATV7\\Program.cs",
+              "RelativeToolTip": "ATV7\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:06:33.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

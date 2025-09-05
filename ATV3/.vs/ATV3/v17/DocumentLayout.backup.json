@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cg950\\source\\repos\\ATV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD269519-9D4C-42D0-9D42-A0CCD0BD154E}|ATV3\\ATV3.csproj|c:\\users\\cg950\\source\\repos\\atv3\\atv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD269519-9D4C-42D0-9D42-A0CCD0BD154E}|ATV3\\ATV3.csproj|solutionrelative:atv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cg950\\source\\repos\\ATV3\\ATV3\\Program.cs",
+              "RelativeDocumentMoniker": "ATV3\\Program.cs",
+              "ToolTip": "C:\\Users\\cg950\\source\\repos\\ATV3\\ATV3\\Program.cs",
+              "RelativeToolTip": "ATV3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:04:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

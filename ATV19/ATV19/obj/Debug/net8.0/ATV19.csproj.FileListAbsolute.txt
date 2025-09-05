@@ -1,0 +1,14 @@
+C:\Users\cg950\source\repos\ATV19\ATV19\bin\Debug\net8.0\ATV19.exe
+C:\Users\cg950\source\repos\ATV19\ATV19\bin\Debug\net8.0\ATV19.deps.json
+C:\Users\cg950\source\repos\ATV19\ATV19\bin\Debug\net8.0\ATV19.runtimeconfig.json
+C:\Users\cg950\source\repos\ATV19\ATV19\bin\Debug\net8.0\ATV19.dll
+C:\Users\cg950\source\repos\ATV19\ATV19\bin\Debug\net8.0\ATV19.pdb
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\ATV19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\ATV19.AssemblyInfoInputs.cache
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\ATV19.AssemblyInfo.cs
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\ATV19.csproj.CoreCompileInputs.cache
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\ATV19.dll
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\refint\ATV19.dll
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\ATV19.pdb
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\ATV19.genruntimeconfig.cache
+C:\Users\cg950\source\repos\ATV19\ATV19\obj\Debug\net8.0\ref\ATV19.dll

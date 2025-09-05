@@ -1,0 +1,14 @@
+C:\Users\cg950\source\repos\ATV18\ATV18\bin\Debug\net8.0\ATV18.exe
+C:\Users\cg950\source\repos\ATV18\ATV18\bin\Debug\net8.0\ATV18.deps.json
+C:\Users\cg950\source\repos\ATV18\ATV18\bin\Debug\net8.0\ATV18.runtimeconfig.json
+C:\Users\cg950\source\repos\ATV18\ATV18\bin\Debug\net8.0\ATV18.dll
+C:\Users\cg950\source\repos\ATV18\ATV18\bin\Debug\net8.0\ATV18.pdb
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\ATV18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\ATV18.AssemblyInfoInputs.cache
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\ATV18.AssemblyInfo.cs
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\ATV18.csproj.CoreCompileInputs.cache
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\ATV18.dll
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\refint\ATV18.dll
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\ATV18.pdb
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\ATV18.genruntimeconfig.cache
+C:\Users\cg950\source\repos\ATV18\ATV18\obj\Debug\net8.0\ref\ATV18.dll

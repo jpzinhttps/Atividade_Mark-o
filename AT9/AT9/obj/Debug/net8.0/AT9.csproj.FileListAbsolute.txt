@@ -1,0 +1,14 @@
+C:\Users\cg950\source\repos\AT9\AT9\bin\Debug\net8.0\AT9.exe
+C:\Users\cg950\source\repos\AT9\AT9\bin\Debug\net8.0\AT9.deps.json
+C:\Users\cg950\source\repos\AT9\AT9\bin\Debug\net8.0\AT9.runtimeconfig.json
+C:\Users\cg950\source\repos\AT9\AT9\bin\Debug\net8.0\AT9.dll
+C:\Users\cg950\source\repos\AT9\AT9\bin\Debug\net8.0\AT9.pdb
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\AT9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\AT9.AssemblyInfoInputs.cache
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\AT9.AssemblyInfo.cs
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\AT9.csproj.CoreCompileInputs.cache
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\AT9.dll
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\refint\AT9.dll
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\AT9.pdb
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\AT9.genruntimeconfig.cache
+C:\Users\cg950\source\repos\AT9\AT9\obj\Debug\net8.0\ref\AT9.dll
